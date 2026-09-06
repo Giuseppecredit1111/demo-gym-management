@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'FORME — Performance intelligence for coaches',
+  title: 'KIVO — Know the progress',
   description: 'Una demo interattiva per capire chi sta progredendo e chi richiede attenzione.',
 };
 
