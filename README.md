@@ -41,7 +41,11 @@ npm run build
 
 ## Deploy
 
-Il progetto è pronto per OpenAI Sites. La build standard produce un bundle Cloudflare Worker-compatible. In alternativa, collegare la repository a un provider compatibile con applicazioni Vite/Next e usare `npm run build` come comando di build.
+Il progetto viene pubblicato automaticamente su GitHub Pages a ogni push sul branch `main` tramite `.github/workflows/deploy-pages.yml`.
+
+URL previsto: `https://giuseppecredit1111.github.io/demo-gym-management/`
+
+La build statica può essere verificata localmente con `npm run build:pages`. La build standard resta disponibile per OpenAI Sites.
 
 ## Struttura
 
