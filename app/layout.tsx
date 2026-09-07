@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'KIVO — Know the progress',
-  description: 'Una demo interattiva per capire chi sta progredendo e chi richiede attenzione.',
+  title: 'Progressì — Ogni allenamento conta',
+  description: 'Progressì rende semplici gli allenamenti e chiari i progressi.',
 };
 
 export default function RootLayout({
