@@ -55,3 +55,9 @@ La build statica può essere verificata localmente con `npm run build:pages`. La
 - `.openai/hosting.json`: configurazione hosting Sites
 
 Questa è una validation demo senza backend, autenticazione o pagamenti reali.
+
+## Documentazione
+
+- [PRODUCT.md](PRODUCT.md): visione, utenti, flussi e direzione del prodotto
+- [ARCHITECTURE.md](ARCHITECTURE.md): struttura tecnica, stato, build e limiti
+- [AGENTS.md](AGENTS.md): regole operative per chi modifica il repository
