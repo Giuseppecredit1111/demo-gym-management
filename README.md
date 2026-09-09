@@ -5,6 +5,7 @@ Demo interattiva di un SaaS di performance intelligence per Personal Trainer, pa
 ## Funzionalità demo
 
 - Landing con accesso immediato alle modalità Atleta e Personal Trainer
+- Onboarding iniziale in 3 step con agenda, insight e allenamento guidato
 - Workout mobile-first con valori precompilati, stepper, completamento serie e timer recupero
 - Riepilogo workout, Progress Score dimostrativo e storico di 8 settimane
 - Dashboard PT, filtri clienti, dettaglio performance e AI Coach Insight in preview

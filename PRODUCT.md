@@ -18,6 +18,10 @@ Consulta il proprio calendario e la scheda, sceglie l'ordine degli esercizi, reg
 
 ## Flussi principali
 
+### Intro
+
+Un onboarding visuale in tre passaggi presenta al PT l'agenda operativa, i segnali di performance e il collegamento tra programmazione ed esecuzione. Al termine riporta alla landing, lasciando libera la scelta tra modalità PT e atleta. Il reset riapre l'intro.
+
 ### Area PT
 
 - **Oggi:** agenda operativa con orari, clienti e stato degli allenamenti.
@@ -61,4 +65,3 @@ Il Progress Score e gli insight sono elementi dimostrativi e non costituiscono m
 - Storico reale di serie, volume, carichi, RPE e record personali.
 - Insight spiegabili con regole configurabili dal coach.
 - Accessibilità, internazionalizzazione e test su dispositivi reali.
-
